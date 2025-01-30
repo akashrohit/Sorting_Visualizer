@@ -1,4 +1,5 @@
 # Sorting_Visualizer
+<<<<<<< HEAD
 
 A web application showcasing the inner workings of sorting algorithms.
 
@@ -23,3 +24,6 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+=======
+A web app that visually demonstrates how sorting algorithms work
+>>>>>>> e2cba1b452ab807ed1a1939e883489870111cc0d
