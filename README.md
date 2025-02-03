@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sorting_Visualizer
 <<<<<<< HEAD
 
@@ -27,3 +28,6 @@ Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
 =======
 A web app that visually demonstrates how sorting algorithms work
 >>>>>>> e2cba1b452ab807ed1a1939e883489870111cc0d
+=======
+# Sorting-Visualizer
+>>>>>>> 9ba1da76fba7f841a0e7aa9c40d6d69d24b1e24b
